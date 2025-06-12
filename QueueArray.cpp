@@ -48,4 +48,6 @@ class Queues
         }
         queue_array[REAR] = num;
     }
+   // Membuat fungsi untuk menghapus elemen dari antrian
+    void remove()
     
