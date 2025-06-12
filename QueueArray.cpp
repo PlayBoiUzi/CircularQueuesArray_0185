@@ -17,4 +17,12 @@ class Queues
         FRONT = -1;
         REAR = -1;
     }
-    
+    // Membuat fungsi untuk memasukkan elemen ke dalam antrian
+    void insert()
+    {
+        int num;
+        cout << "Enter a number";
+        cin >> num;
+        cout << endl;
+
+        
