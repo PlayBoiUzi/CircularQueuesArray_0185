@@ -10,4 +10,11 @@ class Queues
     int FRONT, REAR;
     int queue_array[5];
    
+    // Inisialisasi antrian dengan nilai awal
+    public:
+    Queues()
+    {
+        FRONT = -1;
+        REAR = -1;
+    }
     
