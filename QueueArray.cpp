@@ -121,3 +121,10 @@ class Queues
         }
     }
 };
+// Membuat fungsi utama untuk menguji kelas antrian
+int main()
+{
+    Queues q;
+    char ch;
+    
+ 
